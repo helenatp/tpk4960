@@ -6,11 +6,11 @@ Key-words: Learning, nonlinear dynamics, regularization, LASA, RKHS, RFF, curl-f
 ## Main file and notebook structure
     .
     ├── TPK4960                     # 
-        ├── src                     # Source filer for prosjektet                              
-            ├── hamilton            # Overmappe for alle filer gjeldende Hamiltonske system
-                ├── RFF_parameters  # Overmappe for lagring av parametere brukt i regression problem
-            ├── Lasa                # Overmappe for alle filer gjeldende Lasa problemet
-                ├── Dataset         # Dataset mappe for Angle-shape og S-shape brukt i regression problem
+        ├── src                     # Source files for the project                              
+            ├── hamilton            # Parent directory for all files related to Hamiltonian systems
+                ├── RFF_parameters  # Parent directory for storing parameters used in regression problems
+            ├── Lasa                # Parent directory for all files related to the Lasa problem
+                ├── Dataset         # Dataset directory for Angle-shape and S-shape used in regression problems
 
 
 ### Libraries
