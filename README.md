@@ -9,7 +9,7 @@ Key-words: Learning, nonlinear dynamics, regularization, LASA, RKHS, RFF, curl-f
         ├── src                     # Source files for the project                              
             ├── hamilton            # Parent directory for all files related to Hamiltonian systems
                 ├── RFF_parameters  # Parent directory for storing parameters used in regression problems
-            ├── Lasa                # Parent directory for all files related to the Lasa problem
+            ├── lasa                # Parent directory for all files related to the Lasa problem
                 ├── Dataset         # Dataset directory for Angle-shape and S-shape used in regression problems
 
 
