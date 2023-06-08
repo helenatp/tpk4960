@@ -1,6 +1,6 @@
 # Master Thesis - TPK4960
 This project is inline with the course TPK4960 Robotics and automation, master thesis 2023 Spring.
-The objective of the project is to examine the effectiveness of RFF in various optimization problems.
+The objective of the project is to examine the effectiveness of RFF using to approximate kernels in various regression problems.
 
 Key-words: Learning, nonlinear dynamics, regularization, LASA, RKHS, RFF, curl-free kernel, gaussian separable kernel, Hamiltonian system, symplectic kernel
 
