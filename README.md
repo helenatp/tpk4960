@@ -1,17 +1,20 @@
 # Master Thesis - TPK4960
-This project is inline with the course TPK4960 Robotics and automation, master thesis 2023 Spring.
+This project is inline with the course TPK4960 Robotics and automation, master thesis Spring 2023.
 The objective of the project is to examine the effectiveness of RFF using to approximate kernels in various regression problems.
 
-Key-words: Learning, nonlinear dynamics, regularization, LASA, RKHS, RFF, curl-free kernel, gaussian separable kernel, Hamiltonian system, symplectic kernel
+Key-words: Learning, nonlinear dynamics, regularization, LASA, RKHS, RFF, curl-free kernel, Gaussian separable kernel, Hamiltonian dynamics, symplectic kernel
 
 ## Main file and notebook structure
-    .
-    ├── TPK4960                     # 
-        ├── src                     # Source files for the project                              
-            ├── hamilton            # Parent directory for all files related to Hamiltonian systems
-                ├── RFF_parameters  # Parent directory for storing parameters used in regression problems
-            ├── lasa                # Parent directory for all files related to the Lasa problem
-                ├── Dataset         # Dataset directory for Angle-shape and S-shape used in regression problems
+    . 
+    ├── TPK4960                      # 
+        ├── src                      # Source files for the project                              
+            ├── hamilton             # Parent directory for all files related to Hamiltonian systems
+                ├── hamilton_figures # Parent directory for storing saved plots to Hamiltonian models
+                ├── RFF_parameters   # Parent directory for storing parameters used in regression problems
+            ├── lasa                 # Parent directory for all files related to the Lasa problem
+                ├── Dataset          # Dataset directory for Angle-shape and S-shape used in regression problems
+                ├── lasa_figures     # Parent directory for storing saved plots to LASA models
+                ├── RFF_parameters   # Parent directory for storing parameters used in regression problems
 
 
 ### Libraries
